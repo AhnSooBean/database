@@ -1,1 +1,1 @@
-# database team project
+# database termproject
